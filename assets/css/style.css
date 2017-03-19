@@ -341,3 +341,8 @@ nav a:first-child {
     margin-bottom: 20px;
 }
 }
+
+.weather {
+    width: 640;
+    height: 480;
+}
